@@ -1,2 +1,2 @@
 # mark.deng
-hello
+hello, this is demo program.
